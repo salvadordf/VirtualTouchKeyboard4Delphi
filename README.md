@@ -3,7 +3,7 @@ VirtualTouchKeyboard4Delphi is an implementation of the virtual touch keyboard a
 
 VirtualTouchKeyboard4Delphi is a replacement of the TTouchKeyboard component using the ITipInvocation, IInputHostManagerBroker and IImmersiveShellBroker interfaces which are available in Windows 10 and 11.
 
-VirtualTouchKeyboard4Delphi was developed and tested on Delphi 13 and Lazarus 4.4/FPC 3.2.2. It includes VCL, FireMonkey (FMX) and Lazarus components.
+VirtualTouchKeyboard4Delphi was developed and tested on Delphi 13, Delphi XE2 and Lazarus 4.4/FPC 3.2.2. It includes VCL, FireMonkey (FMX) and Lazarus components.
 
 ## Links
 * [Developer Forums](https://www.briskbard.com/forum)
